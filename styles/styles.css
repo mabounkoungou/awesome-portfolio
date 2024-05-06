@@ -1,0 +1,13 @@
+title{
+    height: 60px;
+    width: 60px;
+}
+
+
+
+.container{
+    width: max-content;
+    height: max-content;
+    color: antiquewhite;
+    border-radius: 50px;
+}
